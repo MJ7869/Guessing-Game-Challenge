@@ -8,6 +8,7 @@ Make Your Guesses: Enter your guesses and receive instant feedback. The game wil
 Win or Lose: If you guess the correct number within the allowed attempts, you win! If you run out of guesses, the correct number is revealed.
 
 **Features**
+
 Multiple difficulty levels to challenge users of all skill levels.
 Immediate feedback on the proximity of your guesses.
 Input validation to ensure smooth gameplay.
